@@ -1,0 +1,7 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Aniket Singh
+	email = digital@onehash.ai
+# Please adapt and uncomment the following lines:
+#	name = 
+#	email = chatwoot@ip-172-31-12-192.ap-south-1.compute.internal
