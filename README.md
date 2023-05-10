@@ -33,11 +33,11 @@ ___
 
 
 
-Chatwoot is an open-source, self-hosted customer engagement suite. Chatwoot lets you view and manage your customer data, communicate with them irrespective of which medium they use, and re-engage them based on their profile.
+OneHash Chat is an open-source, self-hosted customer engagement suite. Chatwoot lets you view and manage your customer data, communicate with them irrespective of which medium they use, and re-engage them based on their profile.
 
 ## Features
 
-Chatwoot supports the following conversation channels:
+OneHash Chat supports the following conversation channels:
 
  - **Website**: Talk to your customers using our live chat widget and make use of our SDK to identify a user and provide contextual support.
  - **Facebook**: Connect your Facebook pages and start replying to the direct messages to your page.
